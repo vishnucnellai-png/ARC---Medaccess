@@ -4,10 +4,8 @@
 MedAccess OS is a secure healthcare access control system demonstrating role-based authentication, multi-factor login (OTP), audit logging, and emergency "break-the-glass" access. Built using HTML, CSS, JavaScript, and Flask, it simulates secure handling of sensitive medical data in a hospital environment for academic purposes.
 
 ---
-
-## Problem Statement
-Healthcare systems manage highly sensitive patient information. Unauthorized access, lack of accountability, and absence of emergency override mechanisms can compromise patient safety and data privacy.
-
+//problem statement
+Healthcare systems store and handle highly sensitive patient information. Unauthorized access, weak accountability mechanisms, and lack of emergency override features can compromise both patient safety and data privacy.
 ---
 
 ## Proposed Solution
